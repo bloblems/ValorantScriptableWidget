@@ -10,8 +10,12 @@
 Scriptable Widget that shows a players current rank, Current RR, and last match change in RR
 
 ## Setup
+Initial Requirments
 
 * [Scriptable](https://scriptable.app/)
+
+--------------
+How To
 
 * Obtain your Player `PUUID`, Simplest way to get it is [here](https://docs.henrikdev.xyz/valorant.html)
 
