@@ -34,7 +34,7 @@ let e = new Request("https://api.henrikdev.xyz/valorant/v1/by-puuid/mmr/[REGION]
 This project wouldn't have happened without.
 
 - [henrikdev.xyz Unofficial VALORANT API](https://github.com/Henrik-3/unofficial-valorant-api)
-  for providing a great API about Valorant!
+  for providing an amazing API!
 
 ### Support Me
 
