@@ -10,7 +10,7 @@
 Scriptable Widget that shows a players current rank, Current RR, and last match change in RR
 
 ## Setup
-Initial Requirments
+Initial Requirements
 
 * [Scriptable](https://scriptable.app/)
 
