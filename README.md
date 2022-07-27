@@ -38,5 +38,5 @@ This project wouldn't have happened without.
 
 ### Support Me
 
-[Cash App](https://cash.app/$bloblems)
-[Personal Site] (https://www.bloblems.com/)
+* [Cash App](https://cash.app/$bloblems)
+* [Personal Site] (https://www.bloblems.com/)
