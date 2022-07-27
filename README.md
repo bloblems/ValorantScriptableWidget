@@ -4,11 +4,6 @@
   <br>
 </h1>
 
-<p align="center">
-  <a href="#about">About</a>
-  •
-  <a href="#Setup">Installation</a>
-</p>
 
 # About
 
