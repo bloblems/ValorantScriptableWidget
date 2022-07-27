@@ -18,7 +18,7 @@ Scriptable Widget that shows a players current rank, Current RR, and last match 
 
 * [Scriptable](https://scriptable.app/)
 
-* Obtain your Player [`PUUID`], Simplest way to get it is [here](https://docs.henrikdev.xyz/valorant.html)
+* Obtain your Player `PUUID`, Simplest way to get it is [here](https://docs.henrikdev.xyz/valorant.html)
 
 * Open Rank.JS file and Change out the URI with the one generated from previous step with PUUID
 ```bash
